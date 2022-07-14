@@ -5,6 +5,7 @@
   "tokens": [
     {
       "name": "DAI Stablecoin",
+      "address": "0xfE859262C9b950C4B76d12cd5140E21204990195",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 5,
