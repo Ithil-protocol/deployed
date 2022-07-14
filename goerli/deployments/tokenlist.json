@@ -1,22 +1,21 @@
 {
   "name": "Supported Tokens",
   "version": "1.0.0",
-  "timestamp": "2022-04-06T15:01:14.910Z",
+  "timestamp": "2022-07-14T10:01:39.604Z",
   "tokens": [
     {
       "name": "DAI Stablecoin",
-      "address": "0x4315D935947bf9430152b5e90E0A5675e888Be90",
       "symbol": "DAI",
       "decimals": 18,
-      "chainId": 4,
+      "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "name": "Wrapped Ether",
-      "address": "0x26CB03b59858dCD2b12F9309de5d1e8269e16F61",
+      "address": "0x710BC8FcE37189b3E0B7bc0581966CAa48f86E7b",
       "symbol": "WETH",
       "decimals": 18,
-      "chainId": 4,
+      "chainId": 5,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ]
