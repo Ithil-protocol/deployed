@@ -1,8 +1,8 @@
 {
-  "timestamp": "2022-08-31T16:48:49.535Z",
+  "timestamp": "2022-09-19T09:34:27.303Z",
   "chainId": 5,
   "mocks": {
-    "MockKyberNetworkProxy": "0x60077793c353e620C38a8a9b96e7D6E18E97f12B",
-    "MockYearnRegistry": "0xAeb31D5c43a644055F62F18B6219A369e41c9205"
+    "MockKyberNetworkProxy": "0xBB4BB42Fe558388dE4a8c3ED3bf3d3375d23c14A",
+    "MockYearnRegistry": "0xaeb3c3D6E0Bd531998D9AB91788e6c96de6C1068"
   }
 }
