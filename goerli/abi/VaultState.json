@@ -19,10 +19,5 @@
     ],
     "name": "Vault__Insufficient_Free_Liquidity",
     "type": "error"
-  },
-  {
-    "inputs": [],
-    "name": "Vault__Repay_Failed",
-    "type": "error"
   }
 ]
