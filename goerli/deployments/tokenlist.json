@@ -1,38 +1,38 @@
 {
-  "timestamp": "2022-09-19T09:33:25.734Z",
+  "timestamp": "2022-09-19T11:13:28.832Z",
   "chainId": 5,
   "tokens": [
     {
       "name": "DAI Stablecoin",
-      "address": "0xEC5A8860f666D8a26Eb3178f8882dFdddc20F837",
+      "address": "0xa0a596a03d1c0fe4dA71D1E2DE622D0071a405Ad",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "name": "USD Coin",
-      "address": "0xA8cC73Ea438A1Ae870e5B3D1A20Bb01cD60a4432",
+      "address": "0x7343B4691645Fc475A6013148bcc7fe79510B62F",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "ChainLink Token",
-      "address": "0x50e21786064757ABD788464642803248cFD6FA8A",
+      "address": "0xb5D6f28ce9b101B6B7bDec9Cf5741cbCBcA5b56b",
       "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
       "name": "Wrapped BTC",
-      "address": "0xee647d3b305eFc28050c1a02818EF984Dff0bE36",
+      "address": "0x51AB3cCb5eBA06fBd2240C096Ce8A517Cf3292a8",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "name": "Wrapped Ether",
-      "address": "0xb7C6c2001b5cb8315FAF06212Cb93B0AC0bbA9a5",
+      "address": "0x2336D0C404E10ad344E64cf0cF6819A0276d9E56",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
