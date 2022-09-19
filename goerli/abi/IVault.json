@@ -64,32 +64,6 @@
     "type": "error"
   },
   {
-    "inputs": [
-      {
-        "internalType": "address",
-        "name": "user",
-        "type": "address"
-      },
-      {
-        "internalType": "address",
-        "name": "token",
-        "type": "address"
-      },
-      {
-        "internalType": "uint256",
-        "name": "amount",
-        "type": "uint256"
-      },
-      {
-        "internalType": "uint256",
-        "name": "maxWithdrawal",
-        "type": "uint256"
-      }
-    ],
-    "name": "Vault__Max_Withdrawal",
-    "type": "error"
-  },
-  {
     "inputs": [],
     "name": "Vault__Null_Amount",
     "type": "error"
@@ -466,12 +440,12 @@
     "outputs": [
       {
         "internalType": "uint256",
-        "name": "interestRate",
+        "name": "",
         "type": "uint256"
       },
       {
         "internalType": "uint256",
-        "name": "fees",
+        "name": "",
         "type": "uint256"
       }
     ],
@@ -594,7 +568,13 @@
       }
     ],
     "name": "repay",
-    "outputs": [],
+    "outputs": [
+      {
+        "internalType": "uint256",
+        "name": "",
+        "type": "uint256"
+      }
+    ],
     "stateMutability": "nonpayable",
     "type": "function"
   },
