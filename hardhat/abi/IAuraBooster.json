@@ -1,0 +1,72 @@
+[
+  {
+    "inputs": [],
+    "name": "crv",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "pure",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "minter",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "pure",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "_pid",
+        "type": "uint256"
+      }
+    ],
+    "name": "poolInfo",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "lptoken",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "token",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "gauge",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "crvRewards",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "stash",
+        "type": "address"
+      },
+      {
+        "internalType": "bool",
+        "name": "shutdown",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
